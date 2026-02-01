@@ -1,2 +1,12 @@
 # leetcode-solution
-colloction of my leetcode problem solution
+this repository contain my leetcode problem solution written.
+Goal:
+solve at least one problem daily
+Structure:
+easy /
+medium / 
+hard /
+Each file include 
+-problem name 
+-Link
+-clean solution 
